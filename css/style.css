@@ -9,3 +9,7 @@ body {
     margin-right: auto;
     margin-left: auto;
 }
+
+header {
+    background-image: url('/images/nuages_708.jpg');
+}
