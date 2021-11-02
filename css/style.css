@@ -13,3 +13,23 @@ body {
 header {
     background-image: url('/images/nuages_708.jpg');
 }
+
+main table {
+
+    border-collapse: collapse;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td {
+
+    border: 1px solid black;
+}
+
+th {
+
+    background-color: #33CCCC;
+    border: 1px solid black;
+    color: white;
+}
