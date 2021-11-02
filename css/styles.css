@@ -5,7 +5,7 @@ body {
 
 #conteneur {
     width: 920px;
-    background-color: #FFFFFF;    
+    background-color: #FFFFFF;
     margin-right: auto;
     margin-left: auto;
 }
@@ -17,29 +17,29 @@ header {
     background-size: 920px 135px;
     color: yellow;
     font-size: 25px;
-
 }
 
-header h1{
-    margin-left: 17px;   
+header h1 {
+    margin-left: 17px;
 }
 
-nav{
+nav {
     background-color: yellow;
 }
 
-nav table{
+nav table {
     width: 920px;
 }
 
-nav a{
-    color: blue;
-}
-nav a:link{
+nav a {
     color: blue;
 }
 
-nav a:visited{
+nav a:link {
+    color: blue;
+}
+
+nav a:visited {
     color: blue;
 }
 
@@ -47,38 +47,37 @@ nav a:hover {
     color: purple;
 }
 
-nav a:active{
+nav a:active {
     color: green;
 }
 
-main{
-    
-}
-main p{
+main {}
+
+main p {
     margin-left: 13px;
 }
 
-main dl{
+main dl {
     width: 200px;
     background-color: #e8e0e9;
     margin-left: 62px;
 }
 
-main a:active{
-    color:red;
+main a:active {
+    color: red;
     background-color: white;
 }
 
-main dl a{
+main dl a {
     color: red;
     text-decoration: none;
     font-weight: bold;
 }
 
-footer{
+footer {
     background-color: #87cefa;
 }
 
-footer table{
+footer table {
     width: 920px;
 }
