@@ -1,6 +1,4 @@
-
 main table {
-
     border-collapse: collapse;
     width: 90%;
     margin-right: auto;
@@ -8,13 +6,12 @@ main table {
 }
 
 main td {
-
     border: 1px solid black;
 }
 
 main th {
-
     background-color: #33CCCC;
     border: 1px solid black;
     color: white;
+    
 }

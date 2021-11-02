@@ -12,15 +12,17 @@ body {
 
 header {
     width: 920px;
-    height: 135px;
+    height: 120px;
     background-image: url('../images/nuages_708.jpg');
     background-size: 920px 135px;
     color: yellow;
     font-size: 25px;
+    padding-top: 1px;
+    margin-top: 17px;
 }
 
 header h1 {
-    margin-left: 17px;
+    margin: 17px;
 }
 
 nav {
@@ -50,8 +52,6 @@ nav a:hover {
 nav a:active {
     color: green;
 }
-
-main {}
 
 main p {
     margin-left: 13px;
