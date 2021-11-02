@@ -7,11 +7,26 @@ main table {
 
 main td {
     border: 1px solid black;
+    
 }
 
 main th {
     background-color: #33CCCC;
     border: 1px solid black;
+    border-top: 3px solid black;
     color: white;
-    
+}
+
+#borderRight{
+    border-right: 3px black;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
 }
