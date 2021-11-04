@@ -81,3 +81,72 @@ footer {
 footer table {
     width: 920px;
 }
+
+footer a{
+    color: purple;    
+}
+
+
+main table {
+    border-collapse: collapse;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+main td {
+    border: 1px solid black;    
+    text-align: center;
+}
+
+main th {
+    background-color: #33CCCC;
+    border: 1px solid black;
+    border-top: 3px solid black;
+    color: white;
+    border-right: 1px solid white;
+}
+
+main tr{
+    border-right: 3px solid black;
+    border-left: 3px black;
+}
+
+
+#borderRight{
+    border-right: 3px black;
+}
+
+label {
+    display: block;
+    letter-spacing: 1px;
+    margin-top: 4px;
+}
+
+input,
+textarea {
+    font-size: .8rem;
+    letter-spacing: 1px;
+    border: 1px solid #ccc;
+    margin-top: 4px;   
+}
+textarea {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5;    
+}
+
+.formfield * {
+    margin-top: -12px;
+    vertical-align: middle;
+}
+
+td[rowspan].topleft {
+    vertical-align: top;
+    text-align: left;
+}
+
+td[rowspan].topright {
+    vertical-align: top;
+    text-align: right;
+}
